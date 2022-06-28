@@ -1,4 +1,16 @@
 
+ <div align="center">
+  <img src="header.svg"  >
+</div>
+
+<
+
+<uls style="margin-bottom: 0">
+  <li>Amante da tecnologia e Acadêmica de <strong>Sistemas de Informação</strong></li>
+  <li>Atualmente trabalhando na <a href="https://www.castgroup.com.br/"><strong>Cast Group</strong></a> como desenvolvedora front-end</li>
+</ul>
+<hr>
+
  <div>
   <a href="https://github.com/laura-lorrayne">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laura-lorrayne&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
